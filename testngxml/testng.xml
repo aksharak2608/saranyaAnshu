@@ -1,0 +1,10 @@
+
+<suite name="sep" verbose="1" >
+    <test name="login" >
+        <classes>
+            <class name="testcases.logintest" />
+            <class name="testcases.logintest" />
+        </classes>
+    </test>
+
+</suite>
